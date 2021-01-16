@@ -1,4 +1,3 @@
-# testassment
 
 # Pre-requisites to run this project
 
